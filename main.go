@@ -1,5 +1,5 @@
 package main
-import "fmy"
+import "fmt"
 func main()
 {fmt.print("hello");
 }
